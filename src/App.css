@@ -1,0 +1,8 @@
+.background {
+  display: flex;
+  background: linear-gradient(to right, #00acfe, #01fe6d);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
